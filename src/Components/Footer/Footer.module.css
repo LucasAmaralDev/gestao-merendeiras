@@ -1,0 +1,41 @@
+.voltarTopo{
+    font-size: 1.4rem;
+    padding: 10px;
+    text-decoration: none;
+    font-weight: bold;
+    color: #4ca2f9;
+    transition: 300ms;
+}
+
+.voltarTopo:hover{
+    color: #056ed6;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.last_element {
+    margin-top: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    padding: 5px;
+    background-color: blue;
+    color: aliceblue;
+    text-decoration: none;
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.2rem;
+    transition: 200ms;
+}
+
+.last_element:hover{
+    background-color: #1e90ff;
+    color: white;
+    text-decoration: none;
+}
+
+.last_element p{
+    margin: 0;
+    padding: 0;
+}
+

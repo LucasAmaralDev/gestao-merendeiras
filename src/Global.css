@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+
+.App{
+    display: flex;
+    flex-direction: column;
+    min-height: 89vh;
+    min-width: 100%;
+    align-items: center;
+}
+
+.sem-conteudo{
+    margin-top: 7%;
+    text-align: center;
+    
+}
+
+footer{
+    margin-top: 0px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+}
+
+footer div{
+    width: 100%;
+    display: flex;
+}
